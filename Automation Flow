@@ -1,0 +1,16 @@
+Excel CRM
+      │
+      ▼
+GitHub Repository
+      │
+      ▼
+GitHub Actions (Daily)
+      │
+      ▼
+Python Scripts
+      │
+      ├── Lead Scoring
+      ├── Renewal Check
+      ├── Invoice Tracking
+      ├── KPI Dashboard Update
+      └── Backup
