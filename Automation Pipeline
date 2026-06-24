@@ -1,0 +1,21 @@
+Excel CRM
+      │
+      ▼
+GitHub Repository
+      │
+      ▼
+GitHub Actions
+      │
+      ▼
+Python Automation
+      │
+      ├── Lead Management
+      ├── Client Management
+      ├── TC Management
+      ├── Renewal Prediction
+      ├── Invoice Tracking
+      ├── Payment Tracking
+      ├── KPI Dashboard
+      ├── Report Generation
+      ├── Backup
+      └── Analytics
