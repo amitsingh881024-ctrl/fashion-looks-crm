@@ -1,0 +1,21 @@
+fashion-looks-enterprise-crm/
+│
+├── .github/
+│   └── workflows/
+│       ├── daily-crm.yml
+│       ├── weekly-report.yml
+│       ├── monthly-dashboard.yml
+│       ├── backup.yml
+│       ├── data-validation.yml
+│       ├── security-scan.yml
+│       ├── release.yml
+│       └── excel-sync.yml
+│
+├── automation/
+│
+├── data/
+├── reports/
+├── templates/
+├── logs/
+├── config/
+└── tests/
