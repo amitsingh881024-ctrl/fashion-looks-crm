@@ -1,0 +1,41 @@
+fashion-looks-enterprise-crm/
+│
+├── app.py
+├── requirements.txt
+├── config/
+│   └── config.py
+├── automation/
+│   ├── excel_loader.py
+│   ├── excel_writer.py
+│   ├── data_validator.py
+│   ├── duplicate_checker.py
+│   ├── lead_import.py
+│   ├── lead_scoring.py
+│   ├── lead_assignment.py
+│   ├── client_master.py
+│   ├── company_master.py
+│   ├── contact_manager.py
+│   ├── tc_tracker.py
+│   ├── certificate_registry.py
+│   ├── renewal_tracker.py
+│   ├── reminder_engine.py
+│   ├── invoice_generator.py
+│   ├── payment_tracker.py
+│   ├── aging_report.py
+│   ├── audit_tracker.py
+│   ├── supplier_tracker.py
+│   ├── buyer_tracker.py
+│   ├── dashboard.py
+│   ├── analytics.py
+│   ├── report_generator.py
+│   ├── backup.py
+│   ├── archive.py
+│   ├── email_reports.py
+│   ├── scheduler.py
+│   └── logger.py
+├── data/
+├── reports/
+├── logs/
+├── templates/
+└── .github/
+    └── workflows/
